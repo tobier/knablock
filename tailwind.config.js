@@ -4,6 +4,7 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
     "./node_modules/flowbite/**/*.js" // configure the Flowbite JS source template paths
   ],
+  darkMode: 'class',
   theme: {
     extend: {},
   },

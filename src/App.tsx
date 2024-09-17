@@ -1,16 +1,13 @@
-import type { Component } from "solid-js";
-import "flowbite";
+import type { Component, JSX } from "solid-js";
 
 import styles from "./App.module.css";
+import { Navbar } from "./components";
 
-const App: Component = () => {
+const App: Component = (props: { children?: JSX.Element }) => {
   return (
     <div class={styles.App}>
-      <header class={styles.header}>
-        <p>
-          Edit <code>src/App.jsx</code> and save to reload.
-        </p>
-      </header>
+      <div style={{ flex: 1 }}>{props.children}</div>
+      <Navbar />
     </div>
   );
 };
