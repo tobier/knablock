@@ -1,12 +1,12 @@
 /* @refresh reload */
 import { render } from "solid-js/web";
-import { Router, Route } from "@solidjs/router";
+import { Router } from "@solidjs/router";
 
 import "flowbite";
-
 import "./index.css";
+
 import App from "./App";
-import { Flightplan, Radio } from "./pages";
+import { routes } from "./routes";
 
 const root = document.getElementById("root");
 
@@ -16,12 +16,4 @@ if (import.meta.env.DEV && !(root instanceof HTMLElement)) {
   );
 }
 
-render(
-  () => (
-    <Router root={App}>
-      <Route path="/radio" component={Radio} />
-      <Route path="/flightplan" component={Flightplan} />
-    </Router>
-  ),
-  root!
-);
+render(() => <Router root={App}>{routes}</Router>, root!);
