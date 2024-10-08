@@ -40,7 +40,6 @@ const App: Component = (props: { children?: JSX.Element }) => {
   return (
     <div class={styles.App}>
       <div style={{ flex: 1 }}>{props.children}</div>
-      <Navbar />
     </div>
   );
 };

@@ -1,0 +1,116 @@
+[
+    {
+        "Agency": "Intra-Flight",
+        "Callsign": "Hammer2",
+        "UHF [Ch]": "--",
+        "VHF [Ch]": "140.550 MHz [18]"
+    },
+    {
+        "Agency": "Guard",
+        "Callsign": "None",
+        "UHF [Ch]": "243.000 MHz ",
+        "VHF [Ch]": "121.500 MHz [13]"
+    },
+    {
+        "Agency": "Common",
+        "Callsign": "None",
+        "UHF [Ch]": "339.750 MHz [14]",
+        "VHF [Ch]": "123.500 MHz [14]"
+    },
+    {
+        "Agency": "Base Ops",
+        "Callsign": "None",
+        "UHF [Ch]": "234.950 MHz [1]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Check-In",
+        "Callsign": "Magic4",
+        "UHF [Ch]": "376.675 MHz [5]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Tactical",
+        "Callsign": "Magic4",
+        "UHF [Ch]": "386.925 MHz [6]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Tanker / Aar",
+        "Callsign": "Copper5",
+        "UHF [Ch]": "381.975 MHz [13]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Dep Atis",
+        "Callsign": "Choongwon ATIS",
+        "UHF [Ch]": "--",
+        "VHF [Ch]": "135.600 MHz"
+    },
+    {
+        "Agency": "Dep Ground",
+        "Callsign": "Choongwon Ground",
+        "UHF [Ch]": "275.900 MHz [2]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Dep Tower",
+        "Callsign": "Choongwon Tower",
+        "UHF [Ch]": "230.150 MHz [3]",
+        "VHF [Ch]": "126.200 MHz [3]"
+    },
+    {
+        "Agency": "Dep Departure",
+        "Callsign": "Choongwon Departure",
+        "UHF [Ch]": "306.700 MHz [4]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Arr Atis",
+        "Callsign": "Choongwon ATIS",
+        "UHF [Ch]": "--",
+        "VHF [Ch]": "135.600 MHz"
+    },
+    {
+        "Agency": "Arr Approach",
+        "Callsign": "Choongwon Approach",
+        "UHF [Ch]": "306.700 MHz [4]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Arr Tower",
+        "Callsign": "Choongwon Tower",
+        "UHF [Ch]": "230.150 MHz [3]",
+        "VHF [Ch]": "126.200 MHz [3]"
+    },
+    {
+        "Agency": "Arr Ground",
+        "Callsign": "Choongwon Ground",
+        "UHF [Ch]": "275.900 MHz [2]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Alt Atis",
+        "Callsign": "R605 ATIS",
+        "UHF [Ch]": "--",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Alt Approach",
+        "Callsign": "R605 Approach",
+        "UHF [Ch]": "233.800 MHz [10]",
+        "VHF [Ch]": "--"
+    },
+    {
+        "Agency": "Alt Tower",
+        "Callsign": "R605 Tower",
+        "UHF [Ch]": "233.800 MHz [10]",
+        "VHF [Ch]": "122.800 MHz [11]"
+    },
+    {
+        "Agency": "Alt Ground",
+        "Callsign": "R605 Ground",
+        "UHF [Ch]": "233.800 MHz [10]",
+        "VHF [Ch]": "--"
+    }
+]

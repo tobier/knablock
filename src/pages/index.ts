@@ -1,2 +1,2 @@
 export * from './Flightplan/Flightplan';
-export * from './Radio/Radio';
+export * from './Comms/Comms';
