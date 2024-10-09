@@ -1,6 +1,6 @@
 import { Component } from "solid-js";
 
-import { Flightplan, Radio } from "./pages";
+import { Radio } from "./pages";
 
 type Route = {
     path: string;
@@ -12,14 +12,8 @@ type Route = {
 export const routes: Route[] = [
     {
         component: Radio,
-        path: "/radio",
+        path: "/",
         text: "Comms",
         icon: "radio-tower",
     },
-    {
-        component: Flightplan,
-        path: "/flightplan",
-        text: "Flightplan",
-        icon: "table",
-    }
 ];
